@@ -1,0 +1,271 @@
+body{
+
+background-attachment: fixed;
+background-image: url("mountain-wallpaper.jpg");
+background-size: cover;
+background-repeat: repeat;
+font-family: monospace;
+color: white;
+
+
+
+
+}
+
+h1{
+position: relative;
+top:-50px;
+color: white;
+font-family: monospace;
+font-size: 500%
+
+
+
+}
+
+ul{
+
+
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ 
+
+
+
+}
+
+li{
+
+background-color:#333;
+position: relative;
+right: -735px;
+float: left;
+font-size: 200%
+
+
+
+}
+
+li a{
+display: block;
+color: white;
+text-align: center;
+padding: 16px 16px;
+text-decoration: none;
+}
+
+
+
+li a:hover{
+
+background-color: #111;
+text-decoration: overline;
+color: purple;
+
+
+}
+
+p{
+  font-size: monospace;
+font-size: 300%
+}
+
+p.headline{
+  height: 1000px;
+width: 1000px;
+position: relative;
+top: 200px;
+
+}
+
+img.heart{
+position: relative;
+top: -750px;
+right: -1200px;
+box-shadow: 50px 50px #999;
+
+
+
+}
+
+img.Bit{
+position: relative;
+top: -50px;
+right: 400px;
+box-shadow: 50px 50px #999;
+
+
+
+
+}
+
+p.headlinetwo{
+
+height: 1000px;
+width: 1000px;
+position: relative;
+top: -560px;
+right: -700px;
+
+
+
+
+}
+
+
+img.gif{
+position: relative;
+top: -750px;
+right: -1200px;
+box-shadow: 50px 50px #999;
+
+
+  
+}
+
+p.headlinethree{
+ height: 1000px;
+width: 1000px;
+position: relative;
+top: -1200px;
+
+
+}
+
+img.art{
+
+position: relative;
+top: -1600px;
+right: -50px;
+box-shadow: 50px 50px #999;
+
+}
+
+p.headlinefour{
+
+height: 1000px;
+width: 1000px;
+position: relative;
+top: -2030px;
+right: -700px;
+
+
+}
+
+iframe.video-one{
+position: relative;
+top: -2400px;
+right: -500px;
+
+
+
+
+  }
+p.project{
+
+position: relative;
+top: -2300px;
+
+
+}
+
+img.tile{
+position: relative;
+top: -2300px;
+right: -100px;
+
+
+
+}
+
+img.tile-2{
+
+
+  position: relative;
+top: -2300px;
+right: -100px;
+}
+
+img.tile-3{
+position: relative;
+top: -2300px;
+right: -100px;
+}
+
+  
+img.tile-4{
+position: relative;
+top: -2300px;
+right: -100px;
+
+
+}
+
+img.tile-5{
+position: relative;
+top: -2300px;
+right: -100px;
+}
+
+img.tile-6{
+
+position: relative;
+top: -2300px;
+right: -100px;
+
+}
+
+img.tile-7{
+position: relative;
+top: -2300px;
+right: -100px;
+
+
+}
+
+img.tile-8{
+position: relative;
+top: -2300px;
+right: -100px;
+
+  
+}
+
+img.tile-9{
+
+position: relative;
+top: -2300px;
+right: -100px;
+}
+
+img.tile-10{
+position: relative;
+top: -2300px;
+right: -100px;
+
+}
+
+img.tile-11{
+position: relative;
+top: -2300px;
+right: -100px;
+
+
+}
+
+img.tile-12{
+position: relative;
+top: -2300px;
+right: -99px;
+
+}
+
+p.Credits{
+ height: 1000px;
+width: 1000px;
+position: relative;
+top: -2350px;
+}
+
